@@ -1,0 +1,60 @@
+[
+    {
+      "id":1,
+      "cover": "https://i.ibb.co/K6sVp7K/majestic-mountain.jpg",
+      "author": "https://i.ibb.co/pyW2wK2/author1.png",
+      "name": "John Green",
+      "publish_date": "2024-03-13",
+      "reading_time": 5,
+      "title": "The Importance of National Parks",
+      "hashtags": ["#nature", "#conservation", "#outdoors"]
+    },
+    {
+      "id":2,
+      "cover": "https://i.ibb.co/q0JrTKm/Ai.jpg",
+      "author": "https://i.ibb.co/9TszgHD/author2.png",
+      "name": "Sarah Lee",
+      "publish_date": "2024-03-12",
+      "reading_time": 8,
+      "title": "Top 5 AI Trends to Watch in 2024",
+      "hashtags": ["#artificialintelligence", "#machinelearning", "#technology"]
+    },
+    {
+      "id":3,
+      "cover": "https://i.ibb.co/pf8LLYn/pasta-dish.jpg",
+      "author": "https://i.ibb.co/6NxVBDY/author3.png",
+      "name": "David Choi",
+      "publish_date": "2024-03-11",
+      "reading_time":  2,
+      "title": "Easy Vegan One-Pot Pasta Recipe",
+      "hashtags": ["#vegan", "#recipe", "#plantbased"]
+    },
+    {
+      "id":4,
+      "cover": "https://i.ibb.co/FYKPc0Q/hidden-beach.jpg",
+      "author": "https://i.ibb.co/nfvtKwT/profile.png",
+      "name": "Jane Doe",
+      "publish_date": "2024-03-10",
+      "reading_time":  10,
+      "title": "Hidden Gems of Southeast Asia",
+      "hashtags": ["#travel", "#southeastasia", "#adventure"]
+    },
+    {
+      "id":5,
+      "cover": "https://i.ibb.co/2Nfn7Lw/street-art.jpg",
+      "author": "https://i.ibb.co/N3vLcqT/author4.png",
+      "name": "Michael Brown",
+      "publish_date": "2024-03-09",
+      "reading_time": 7,
+      "title": "The History of Street Art",
+      "hashtags": ["#streetart", "#art", "#urbanculture"]
+    }
+  ]
+
+
+
+
+
+
+
+
